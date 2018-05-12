@@ -1,0 +1,38 @@
+_repo: The-History-of-Sabatai-Sevi--The-Suppos-d-Messiah-of-the-Jews_38327
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38327-h/images/cover.png
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+  editor:
+    agent_name: Grose, Christopher
+    alias: Grose, Christopher W.
+    birthdate: 1939
+    gutenberg_agent_id: '39397'
+    url: http://www.gutenberg.org/2009/agents/39397
+description: Contains a reproduction of the author's note, "To the reader" and "The
+  history of Sabatai Sevi, the pretended Messiah of the Jewes, in the year of our
+  Lord, 1666. The third impostor" from his "The history of the three late famous impostors,
+  viz. Padre Ottomano, Mahomed Bei, and Sabatai Sevi ... published in 1669.
+gutenberg_issued: '2011-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38327'
+  lccn: '68066889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shabbethai Tzevi, 1626-1676'
+- !lcc 'BM'
+- !lcsh 'Impostors and imposture -- Early works to 1800'
+title: The History of Sabatai Sevi, the Suppos'd Messiah of the Jews
+url: http://www.gutenberg.org/ebooks/38327
